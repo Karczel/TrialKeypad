@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TrialKeypad.iml" filepath="$PROJECT_DIR$/.idea/TrialKeypad.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../unitconverter-Karczel/keypad-Karczel/.idea/keypad-Karczel.iml" filepath="$PROJECT_DIR$/../unitconverter-Karczel/keypad-Karczel/.idea/keypad-Karczel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../unitconverter-after-deadline-/.idea/unitconverter-after-deadline-.iml" filepath="$PROJECT_DIR$/../unitconverter-after-deadline-/.idea/unitconverter-after-deadline-.iml" />
     </modules>
   </component>
 </project>
